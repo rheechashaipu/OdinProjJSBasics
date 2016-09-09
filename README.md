@@ -8,4 +8,3 @@ exercise their newfound knowledge by having them solve the first Project Euler p
 
 ####Project Euler Problem 1:
 * https://projecteuler.net/problem=1
-* More about Project Euler: 
